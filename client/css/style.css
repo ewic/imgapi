@@ -1,0 +1,13 @@
+.page-content {
+  height: 100%;
+  background-color: blue;
+}
+
+.sidebar {
+  height: 100%;
+  width: 100px;
+  float: left;
+  
+  background-color: red;
+}
+

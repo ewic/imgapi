@@ -1,0 +1,9 @@
+.photostrip {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.photostrip li {
+  display: inline;
+}
